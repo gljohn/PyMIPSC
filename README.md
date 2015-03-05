@@ -1,5 +1,5 @@
-# MIPSC
-Mortgage Interest/Principal Split Calculator
+# PyMIPSC
+Python Mortgage Interest/Principal Split Calculator
 
 A quick an simple python script to calculate the N outstanding balance of a mortage and the breakdown of the payment in interest and principal. The script also generates N by using the difference between start date and analysis date. 
 
